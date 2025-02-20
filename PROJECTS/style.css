@@ -1,0 +1,58 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+body{
+    background: url('https://img.freepik.com/free-vector/3d-style-black-background-with-paper-layer_206725-669.jpg?t=st=1740090160~exp=1740093760~hmac=0560211344d7c022d8e959f117e7d9cb3c42addc8189d58875ea7acdac3c5e05&w=826');
+    /* background-position: center; */
+    background-repeat: repeat-y;
+    background-size:1400px;
+    height: 3000px;
+    /* background-position: center; */
+}
+#head{
+    text-align: center;
+    font-size: 85px;
+    font-weight: bold;
+    color: rgb(176,255,255);
+    text-align: center;
+    margin-bottom: 20px;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    font-size: 85px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 20px;
+}
+.box{
+    margin: 10px;
+    /* margin-bottom: 30px; */
+    width: 750px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: rgb(49,179,239);
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to top, rgb(93,226,255) ,rgb(36,153,242));
+    
+
+
+
+}
+a{
+    text-decoration: none;
+    
+    
+}
+
+h1:hover{
+    color: rgb(17, 0, 248);
+}
