@@ -23,6 +23,11 @@ const arr=[
 
     },
     {
+       name:"TEXT EDITOR",
+       link:"https://ayanaanonaeem.github.io/TEXT_EDITOR/",
+
+    },
+    {
        name:"FAULTY SIGNUP PAGE",
        link:"https://ayanaanonaeem.github.io/Faulty_Sign_Up_Page/",
 
